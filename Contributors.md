@@ -3076,4 +3076,12 @@ Oiloo
 - [Satyabrata Das](https://github.com/satya-py)
 - [hypone233](https://github.com/hypone233)hello everyone
 - [LiorM84] (https://github.com/LiorM84)
-- [Pavani] (https://github.com/pavani-n-hash) 
+- [Pavani] (https://github.com/pavani-n-hash)
+- # Matheus Felipe
+
+Full Stack Developer focused on systems, platforms and real-world products.
+
+Building digital products through Rizzer Studio.
+
+- Portfolio: https://matheusfelipe.dev.br
+- GitHub: https://github.com/dev-matheusfelipe
